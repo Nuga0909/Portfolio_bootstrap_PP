@@ -1,11 +1,11 @@
 Portfolio: Desktop Version with Boostrap
 
 
-![screenshot](https://i.imgur.com/tPMZxHx.png)
+![screenshot](/screenshot.JPG)
 
-# Live Website link
+# Github Website link
 
-https://wolfmikerson.github.io/
+https://github.com/Nuga0909/Portfolio_bootstrap_PP
 
 ## Built With
 
@@ -24,6 +24,7 @@ https://wolfmikerson.github.io/
 👤 **Adeshina Adenuga**
 
 ## 🤝 Contributing
+- GitHub: [@githubhandle](https://github.com/Nuga0909)
 
 Contributions, issues, and feature requests are welcome!
 
@@ -40,4 +41,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
