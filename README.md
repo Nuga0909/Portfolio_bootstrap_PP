@@ -22,9 +22,11 @@ https://github.com/Nuga0909/Portfolio_bootstrap_PP
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/wolf-m-jacques-27a38612a/)
 
 👤 **Adeshina Adenuga**
+- GitHub: [@githubhandle](https://github.com/Nuga0909)
 
 ## 🤝 Contributing
-- GitHub: [@githubhandle](https://github.com/Nuga0909)
+
+Microverse Community
 
 Contributions, issues, and feature requests are welcome!
 
